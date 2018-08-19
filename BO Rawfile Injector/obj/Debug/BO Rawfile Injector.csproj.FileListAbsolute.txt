@@ -1,0 +1,14 @@
+c:\users\duke\source\repos\BO Rawfile Injector\BO Rawfile Injector\bin\Debug\BO Rawfile Injector.exe.config
+c:\users\duke\source\repos\BO Rawfile Injector\BO Rawfile Injector\bin\Debug\BO Rawfile Injector.exe
+c:\users\duke\source\repos\BO Rawfile Injector\BO Rawfile Injector\bin\Debug\BO Rawfile Injector.pdb
+c:\users\duke\source\repos\BO Rawfile Injector\BO Rawfile Injector\bin\Debug\Ionic.Zlib.dll
+c:\users\duke\source\repos\BO Rawfile Injector\BO Rawfile Injector\bin\Debug\PS3Lib.dll
+c:\users\duke\source\repos\BO Rawfile Injector\BO Rawfile Injector\bin\Debug\ps3tmapi_net.dll
+c:\users\duke\source\repos\BO Rawfile Injector\BO Rawfile Injector\obj\Debug\BO Rawfile Injector.csprojAssemblyReference.cache
+c:\users\duke\source\repos\BO Rawfile Injector\BO Rawfile Injector\obj\Debug\BO_Rawfile_Injector.Form1.resources
+c:\users\duke\source\repos\BO Rawfile Injector\BO Rawfile Injector\obj\Debug\BO_Rawfile_Injector.Properties.Resources.resources
+c:\users\duke\source\repos\BO Rawfile Injector\BO Rawfile Injector\obj\Debug\BO Rawfile Injector.csproj.GenerateResource.cache
+c:\users\duke\source\repos\BO Rawfile Injector\BO Rawfile Injector\obj\Debug\BO Rawfile Injector.csproj.CoreCompileInputs.cache
+c:\users\duke\source\repos\BO Rawfile Injector\BO Rawfile Injector\obj\Debug\BO Rawfile Injector.csproj.CopyComplete
+c:\users\duke\source\repos\BO Rawfile Injector\BO Rawfile Injector\obj\Debug\BO Rawfile Injector.exe
+c:\users\duke\source\repos\BO Rawfile Injector\BO Rawfile Injector\obj\Debug\BO Rawfile Injector.pdb
